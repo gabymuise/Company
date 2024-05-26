@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\CompanyWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\CompanyWork.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\CompanyWork.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\CompanyWork.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Company\bin\Debug\net8.0\CompanyWork.exe
+C:\Users\gabri\source\repos\Company\bin\Debug\net8.0\CompanyWork.deps.json
+C:\Users\gabri\source\repos\Company\bin\Debug\net8.0\CompanyWork.runtimeconfig.json
+C:\Users\gabri\source\repos\Company\bin\Debug\net8.0\CompanyWork.dll
+C:\Users\gabri\source\repos\Company\bin\Debug\net8.0\CompanyWork.pdb
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\CompanyWork.dll
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\refint\CompanyWork.dll
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\CompanyWork.pdb
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\CompanyWork.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Company\obj\Debug\net8.0\ref\CompanyWork.dll
